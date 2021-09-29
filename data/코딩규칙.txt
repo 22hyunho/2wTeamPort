@@ -1,0 +1,95 @@
+코딩 규칙
+
+1. 변수명
+=================
+class 멤버 변수 이름 앞에는 항상 _(언더 바)를 붙일 것
+ex. float _x, float _y
+
+※class 멤버 변수란?
+: class header에서 선언한 (일반적으로 private) 변수
+
+구조체나 함수 내에서 선언한 지역 변수 앞에는 _ 붙이지 말 것
+
+
+
+2. 함수명
+=================
+함수의 첫 문자는 소문자로 단어가 바뀌면 대문자로 할 것
+ex. resetPosition(), noMercy()
+
+
+
+
+3. RECT
+=================
+클래스를 선언할 때, 충돌을 위한 RECT 이름은 _body로 통일
+ex. RECT _body(해당 클래스의 충돌 RECT)
+
+
+
+
+4. 접근자 (getter/ setter)
+===================
+접근자명은 항상 get(변수명), set(변수명)으로 할 것.
+당연히 충돌 RECT의 접근자는 getBody(), setBody()가 된다.
+
+
+
+
+5. 객체의 이동과 RECT 갱신(이미지도 포함)
+===================
+객체를 움직일때는 RECT를 움직이는게 아니라 x, y좌표를 바꿔서 움직인다
+이후, x, y좌표가 바뀌면 해당 x, y좌표를 기준으로 RECT를 갱신해 줄 것(항상)
+RECT 갱신에는 RectMakeCenter를 사용한다.
+
+이미지 역시 x, y 기준으로 뿌릴 것.
+x, y로는 도저히 힘들다 싶으면 팀원들에게 미리 얘기후
+RECT를 기준으로 이미지를 render하도록 한다.
+(image 자체의 x, y 사용 금지)
+
+
+
+
+
+6. class명
+===================
+class 이름 첫 문자는 대문자로
+ex. Enemy(class), Player(class)
+
+
+
+
+
+7. FrameRender
+===================
+frameImage 렌더는 지금처럼 controlFrame함수를 만들어서 관리한다.
+controlFrame함수는 update()가 아니라 render()에서 사용할 것
+
+그리고 frame을 넘기기 위해 사용하는 count는 float형으로 선언하고
+1씩 더해주는것이 아니라 TIMEMANAGER->getElapsedTime()을 사용할 것
+기준은 RENDERCOUNT2를 사용
+
+이미지의 경우 이미지매니저에 등록해서 사용하되,
+만약 하나의 이미지를 여러 곳에서 동시에 사용해야 되는 경우
+각 객체가 frameX를 가지고 있어야 한다.
+즉, 이미지를 출력할 때, 객체가 가지고 있는 frameX와 Y를 사용하여 render한다.
+
+예시)
+void Pokemon::controlFrame()
+{
+	_count += TIMEMANAGER->getElapsedTime();
+
+	if (_count >= RENDERCOUNT2) {
+		if (_frameX >= _currentImg->getMaxFrameX())
+			_frameX = 0;
+		else
+			_frameX++;
+
+		_count = 0;
+	}
+}
+
+
+
+※ 주의사항
+

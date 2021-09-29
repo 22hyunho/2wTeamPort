@@ -1,0 +1,1189 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="video.cpp">
+      <Filter>2DGameFramework\video</Filter>
+    </ClCompile>
+    <ClCompile Include="Apple.cpp">
+      <Filter>playGround\Item</Filter>
+    </ClCompile>
+    <ClCompile Include="battleManager.cpp">
+      <Filter>playGround\Battle</Filter>
+    </ClCompile>
+    <ClCompile Include="bossMapScene.cpp">
+      <Filter>playGround\Stage</Filter>
+    </ClCompile>
+    <ClCompile Include="Bulbasaur.cpp">
+      <Filter>playGround\Pokémon\No.01 ~ 09</Filter>
+    </ClCompile>
+    <ClCompile Include="Blastoise.cpp">
+      <Filter>playGround\Pokémon\No.10 ~ 19</Filter>
+    </ClCompile>
+    <ClCompile Include="cameraManager.cpp">
+      <Filter>2DGameFramework\Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="Charizard.cpp">
+      <Filter>playGround\Pokémon\No.01 ~ 09</Filter>
+    </ClCompile>
+    <ClCompile Include="Celebi.cpp">
+      <Filter>playGround\Pokémon\No.30 ~ 39</Filter>
+    </ClCompile>
+    <ClCompile Include="Charmander.cpp">
+      <Filter>playGround\Pokémon\No.01 ~ 09</Filter>
+    </ClCompile>
+    <ClCompile Include="Charmeleon.cpp">
+      <Filter>playGround\Pokémon\No.01 ~ 09</Filter>
+    </ClCompile>
+    <ClCompile Include="collisionManager.cpp">
+      <Filter>2DGameFramework\Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="Crobat.cpp">
+      <Filter>playGround\Pokémon\No.10 ~ 19</Filter>
+    </ClCompile>
+    <ClCompile Include="Darkrai.cpp">
+      <Filter>playGround\Pokémon\No.10 ~ 19</Filter>
+    </ClCompile>
+    <ClCompile Include="DefaultAttack.cpp">
+      <Filter>playGround\Skill</Filter>
+    </ClCompile>
+    <ClCompile Include="dialogManager.cpp">
+      <Filter>playGround\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="Diglett.cpp">
+      <Filter>playGround\Pokémon\No.20 ~ 29</Filter>
+    </ClCompile>
+    <ClCompile Include="dImage.cpp">
+      <Filter>2DGameFramework\image</Filter>
+    </ClCompile>
+    <ClCompile Include="DownMenu.cpp">
+      <Filter>playGround\UI\Menu\DownMenu\base</Filter>
+    </ClCompile>
+    <ClCompile Include="Dragonair.cpp">
+      <Filter>playGround\Pokémon\No.10 ~ 19</Filter>
+    </ClCompile>
+    <ClCompile Include="Dragonite.cpp">
+      <Filter>playGround\Pokémon\No.10 ~ 19</Filter>
+    </ClCompile>
+    <ClCompile Include="Dratini.cpp">
+      <Filter>playGround\Pokémon\No.10 ~ 19</Filter>
+    </ClCompile>
+    <ClCompile Include="dtdManager.cpp">
+      <Filter>2DGameFramework\Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="Dugtrio.cpp">
+      <Filter>playGround\Pokémon\No.20 ~ 29</Filter>
+    </ClCompile>
+    <ClCompile Include="dungeonScene.cpp">
+      <Filter>playGround\Stage</Filter>
+    </ClCompile>
+    <ClCompile Include="dungeonSelectScene.cpp">
+      <Filter>playGround\Stage</Filter>
+    </ClCompile>
+    <ClCompile Include="Eevee.cpp">
+      <Filter>playGround\Pokémon\No.20 ~ 29</Filter>
+    </ClCompile>
+    <ClCompile Include="Effect.cpp">
+      <Filter>playGround\Skill\Effect\base</Filter>
+    </ClCompile>
+    <ClCompile Include="EffectManager.cpp">
+      <Filter>playGround\Skill\Effect</Filter>
+    </ClCompile>
+    <ClCompile Include="Enemy.cpp">
+      <Filter>playGround\Pokémon\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="Espeon.cpp">
+      <Filter>playGround\Pokémon\No.20 ~ 29</Filter>
+    </ClCompile>
+    <ClCompile Include="Flareon.cpp">
+      <Filter>playGround\Pokémon\No.20 ~ 29</Filter>
+    </ClCompile>
+    <ClCompile Include="gameNode.cpp">
+      <Filter>2DGameFramework</Filter>
+    </ClCompile>
+    <ClCompile Include="GarbageTM.cpp">
+      <Filter>playGround\Item</Filter>
+    </ClCompile>
+    <ClCompile Include="Giratina.cpp">
+      <Filter>playGround\Pokémon\No.30 ~ 39</Filter>
+    </ClCompile>
+    <ClCompile Include="Glass.cpp">
+      <Filter>playGround\Item</Filter>
+    </ClCompile>
+    <ClCompile Include="Golbat.cpp">
+      <Filter>playGround\Pokémon\No.10 ~ 19</Filter>
+    </ClCompile>
+    <ClCompile Include="Gummy.cpp">
+      <Filter>playGround\Item</Filter>
+    </ClCompile>
+    <ClCompile Include="Hariyama.cpp">
+      <Filter>playGround\Pokémon\No.30 ~ 39</Filter>
+    </ClCompile>
+    <ClCompile Include="image.cpp">
+      <Filter>2DGameFramework\image</Filter>
+    </ClCompile>
+    <ClCompile Include="imageManager.cpp">
+      <Filter>2DGameFramework\Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="InvenMenu.cpp">
+      <Filter>playGround\UI\Menu\DownMenu</Filter>
+    </ClCompile>
+    <ClCompile Include="InventoryManager.cpp">
+      <Filter>playGround\Item</Filter>
+    </ClCompile>
+    <ClCompile Include="Item.cpp">
+      <Filter>playGround\Item\base</Filter>
+    </ClCompile>
+    <ClCompile Include="ItemManager.cpp">
+      <Filter>playGround\Item</Filter>
+    </ClCompile>
+    <ClCompile Include="Ivysaur.cpp">
+      <Filter>playGround\Pokémon\No.01 ~ 09</Filter>
+    </ClCompile>
+    <ClCompile Include="Jolteon.cpp">
+      <Filter>playGround\Pokémon\No.20 ~ 29</Filter>
+    </ClCompile>
+    <ClCompile Include="keyManager.cpp">
+      <Filter>2DGameFramework\Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="KeyMenu.cpp">
+      <Filter>playGround\UI\Menu\UpMenu</Filter>
+    </ClCompile>
+    <ClCompile Include="Lapras.cpp">
+      <Filter>playGround\Pokémon\No.20 ~ 29</Filter>
+    </ClCompile>
+    <ClCompile Include="LogMenu.cpp">
+      <Filter>playGround\UI\Menu\DownMenu</Filter>
+    </ClCompile>
+    <ClCompile Include="Lunatone.cpp">
+      <Filter>playGround\Pokémon\No.30 ~ 39</Filter>
+    </ClCompile>
+    <ClCompile Include="MainMenu.cpp">
+      <Filter>playGround\UI\Menu\DownMenu</Filter>
+    </ClCompile>
+    <ClCompile Include="Makuhita.cpp">
+      <Filter>playGround\Pokémon\No.30 ~ 39</Filter>
+    </ClCompile>
+    <ClCompile Include="maptool.cpp">
+      <Filter>playGround\Maptool</Filter>
+    </ClCompile>
+    <ClCompile Include="mapToolScene.cpp">
+      <Filter>playGround\Stage</Filter>
+    </ClCompile>
+    <ClCompile Include="Mawile.cpp">
+      <Filter>playGround\Pokémon\No.20 ~ 29</Filter>
+    </ClCompile>
+    <ClCompile Include="PathFinder.cpp">
+      <Filter>playGround\Pokémon\Player\Pattern\A%2a</Filter>
+    </ClCompile>
+    <ClCompile Include="PatternOnAttack.cpp">
+      <Filter>playGround\Pokémon\Player\Pattern\OnAttack</Filter>
+    </ClCompile>
+    <ClCompile Include="PatternPathFinder.cpp">
+      <Filter>playGround\Pokémon\Player\Pattern\PathFinder</Filter>
+    </ClCompile>
+    <ClCompile Include="Pattern.cpp">
+      <Filter>playGround\Pokémon\Player\Pattern\base</Filter>
+    </ClCompile>
+    <ClCompile Include="Atile.cpp">
+      <Filter>playGround\Pokémon\Player\Pattern\A%2a</Filter>
+    </ClCompile>
+    <ClCompile Include="Pichu.cpp">
+      <Filter>playGround\Pokémon\No.01 ~ 09</Filter>
+    </ClCompile>
+    <ClCompile Include="Pikachu.cpp">
+      <Filter>playGround\Pokémon\No.01 ~ 09</Filter>
+    </ClCompile>
+    <ClCompile Include="playGround.cpp">
+      <Filter>playGround</Filter>
+    </ClCompile>
+    <ClCompile Include="pokeDex.cpp">
+      <Filter>playGround\PokéDex</Filter>
+    </ClCompile>
+    <ClCompile Include="Pokemon.cpp">
+      <Filter>playGround\Pokémon\base</Filter>
+    </ClCompile>
+    <ClCompile Include="printManager.cpp">
+      <Filter>2DGameFramework\Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="Raichu.cpp">
+      <Filter>playGround\Pokémon\No.01 ~ 09</Filter>
+    </ClCompile>
+    <ClCompile Include="Regice.cpp">
+      <Filter>playGround\Pokémon\No.30 ~ 39</Filter>
+    </ClCompile>
+    <ClCompile Include="Regirock.cpp">
+      <Filter>playGround\Pokémon\No.30 ~ 39</Filter>
+    </ClCompile>
+    <ClCompile Include="Registeel.cpp">
+      <Filter>playGround\Pokémon\No.30 ~ 39</Filter>
+    </ClCompile>
+    <ClCompile Include="Ribbon.cpp">
+      <Filter>playGround\Item</Filter>
+    </ClCompile>
+    <ClCompile Include="Scene.cpp">
+      <Filter>playGround\Stage\base</Filter>
+    </ClCompile>
+    <ClCompile Include="sceneManager.cpp">
+      <Filter>2DGameFramework\Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="Scope.cpp">
+      <Filter>playGround\Item</Filter>
+    </ClCompile>
+    <ClCompile Include="Skill.cpp">
+      <Filter>playGround\Skill\base</Filter>
+    </ClCompile>
+    <ClCompile Include="skillDex.cpp">
+      <Filter>playGround\PokéDex</Filter>
+    </ClCompile>
+    <ClCompile Include="SkillMenu.cpp">
+      <Filter>playGround\UI\Menu\DownMenu</Filter>
+    </ClCompile>
+    <ClCompile Include="Solrock.cpp">
+      <Filter>playGround\Pokémon\No.30 ~ 39</Filter>
+    </ClCompile>
+    <ClCompile Include="soundManager.cpp">
+      <Filter>2DGameFramework\Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="Squirtle.cpp">
+      <Filter>playGround\Pokémon\No.10 ~ 19</Filter>
+    </ClCompile>
+    <ClCompile Include="StatusMenu.cpp">
+      <Filter>playGround\UI\Menu\UpMenu</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="streamManager.cpp">
+      <Filter>2DGameFramework\Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="Team.cpp">
+      <Filter>playGround\Pokémon\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="ThrowItem.cpp">
+      <Filter>playGround\Item</Filter>
+    </ClCompile>
+    <ClCompile Include="tileManager.cpp">
+      <Filter>playGround\Maptool\base</Filter>
+    </ClCompile>
+    <ClCompile Include="timeManager.cpp">
+      <Filter>2DGameFramework\Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="timer.cpp">
+      <Filter>2DGameFramework\timer</Filter>
+    </ClCompile>
+    <ClCompile Include="titleScene.cpp">
+      <Filter>playGround\Stage</Filter>
+    </ClCompile>
+    <ClCompile Include="TMachine.cpp">
+      <Filter>playGround\Item</Filter>
+    </ClCompile>
+    <ClCompile Include="turnManager.cpp">
+      <Filter>playGround\Battle</Filter>
+    </ClCompile>
+    <ClCompile Include="txtData.cpp">
+      <Filter>2DGameFramework\Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="uiManager.cpp">
+      <Filter>playGround\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="Umbreon.cpp">
+      <Filter>playGround\Pokémon\No.20 ~ 29</Filter>
+    </ClCompile>
+    <ClCompile Include="UpMenu.cpp">
+      <Filter>playGround\UI\Menu\UpMenu\base</Filter>
+    </ClCompile>
+    <ClCompile Include="User.cpp">
+      <Filter>playGround\Pokémon\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="Vaporeon.cpp">
+      <Filter>playGround\Pokémon\No.20 ~ 29</Filter>
+    </ClCompile>
+    <ClCompile Include="Venusaur.cpp">
+      <Filter>playGround\Pokémon\No.01 ~ 09</Filter>
+    </ClCompile>
+    <ClCompile Include="Wartortle.cpp">
+      <Filter>playGround\Pokémon\No.10 ~ 19</Filter>
+    </ClCompile>
+    <ClCompile Include="winMain.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Zubat.cpp">
+      <Filter>playGround\Pokémon\No.10 ~ 19</Filter>
+    </ClCompile>
+    <ClCompile Include="utils.cpp">
+      <Filter>2DGameFramework\Utils</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>playGround\Pokémon\Player\base</Filter>
+    </ClCompile>
+    <ClCompile Include="EF_FireBlast.cpp">
+      <Filter>playGround\Skill\Effect\EF No. 01 ~ 10</Filter>
+    </ClCompile>
+    <ClCompile Include="EF_FireFang.cpp">
+      <Filter>playGround\Skill\Effect\EF No. 01 ~ 10</Filter>
+    </ClCompile>
+    <ClCompile Include="EF_Gust.cpp">
+      <Filter>playGround\Skill\Effect\EF No. 01 ~ 10</Filter>
+    </ClCompile>
+    <ClCompile Include="EF_IceFang.cpp">
+      <Filter>playGround\Skill\Effect\EF No. 01 ~ 10</Filter>
+    </ClCompile>
+    <ClCompile Include="EF_LeafBlade.cpp">
+      <Filter>playGround\Skill\Effect\EF No. 01 ~ 10</Filter>
+    </ClCompile>
+    <ClCompile Include="EF_Lightning.cpp">
+      <Filter>playGround\Skill\Effect\EF No. 01 ~ 10</Filter>
+    </ClCompile>
+    <ClCompile Include="EF_DynamicPunch.cpp">
+      <Filter>playGround\Skill\Effect\EF No. 01 ~ 10</Filter>
+    </ClCompile>
+    <ClCompile Include="EF_Pound.cpp">
+      <Filter>playGround\Skill\Effect\EF No. 01 ~ 10</Filter>
+    </ClCompile>
+    <ClCompile Include="EF_ThunderFang.cpp">
+      <Filter>playGround\Skill\Effect\EF No. 01 ~ 10</Filter>
+    </ClCompile>
+    <ClCompile Include="EF_RockSlide.cpp">
+      <Filter>playGround\Skill\Effect\EF No. 01 ~ 10</Filter>
+    </ClCompile>
+    <ClCompile Include="EF_PoisonPowder.cpp">
+      <Filter>playGround\Skill\Effect\EF No. 11 ~ 20</Filter>
+    </ClCompile>
+    <ClCompile Include="EF_RockSmash.cpp">
+      <Filter>playGround\Skill\Effect\EF No. 11 ~ 20</Filter>
+    </ClCompile>
+    <ClCompile Include="EF_SleepPowder.cpp">
+      <Filter>playGround\Skill\Effect\EF No. 11 ~ 20</Filter>
+    </ClCompile>
+    <ClCompile Include="EF_StunSpore.cpp">
+      <Filter>playGround\Skill\Effect\EF No. 11 ~ 20</Filter>
+    </ClCompile>
+    <ClCompile Include="EF_TriAttack.cpp">
+      <Filter>playGround\Skill\Effect\EF No. 11 ~ 20</Filter>
+    </ClCompile>
+    <ClCompile Include="EF_ShadowClaw.cpp">
+      <Filter>playGround\Skill\Effect\EF No. 11 ~ 20</Filter>
+    </ClCompile>
+    <ClCompile Include="EF_MetalClaw.cpp">
+      <Filter>playGround\Skill\Effect\EF No. 11 ~ 20</Filter>
+    </ClCompile>
+    <ClCompile Include="EF_FeintAttack.cpp">
+      <Filter>playGround\Skill\Effect\EF No. 11 ~ 20</Filter>
+    </ClCompile>
+    <ClCompile Include="EF_CrossChop.cpp">
+      <Filter>playGround\Skill\Effect\EF No. 11 ~ 20</Filter>
+    </ClCompile>
+    <ClCompile Include="EF_Bind.cpp">
+      <Filter>playGround\Skill\Effect\EF No. 11 ~ 20</Filter>
+    </ClCompile>
+    <ClCompile Include="EF_Default.cpp">
+      <Filter>playGround\Skill\Effect\EF No. 21 ~ 30</Filter>
+    </ClCompile>
+    <ClCompile Include="EF_SheerCold.cpp">
+      <Filter>playGround\Skill\Effect\EF No. 21 ~ 30</Filter>
+    </ClCompile>
+    <ClCompile Include="EF_VineWhip.cpp">
+      <Filter>playGround\Skill\Effect\EF No. 21 ~ 30</Filter>
+    </ClCompile>
+    <ClCompile Include="EF_WakeUpSlap.cpp">
+      <Filter>playGround\Skill\Effect\EF No. 21 ~ 30</Filter>
+    </ClCompile>
+    <ClCompile Include="EF_Waterfall.cpp">
+      <Filter>playGround\Skill\Effect\EF No. 21 ~ 30</Filter>
+    </ClCompile>
+    <ClCompile Include="EF_WingAttack.cpp">
+      <Filter>playGround\Skill\Effect\EF No. 21 ~ 30</Filter>
+    </ClCompile>
+    <ClCompile Include="FireBlast.cpp">
+      <Filter>playGround\Skill\SK No. 01 ~ 10</Filter>
+    </ClCompile>
+    <ClCompile Include="DynamicPunch.cpp">
+      <Filter>playGround\Skill\SK No. 01 ~ 10</Filter>
+    </ClCompile>
+    <ClCompile Include="FireFang.cpp">
+      <Filter>playGround\Skill\SK No. 01 ~ 10</Filter>
+    </ClCompile>
+    <ClCompile Include="Gust.cpp">
+      <Filter>playGround\Skill\SK No. 01 ~ 10</Filter>
+    </ClCompile>
+    <ClCompile Include="IceFang.cpp">
+      <Filter>playGround\Skill\SK No. 01 ~ 10</Filter>
+    </ClCompile>
+    <ClCompile Include="LeafBlade.cpp">
+      <Filter>playGround\Skill\SK No. 01 ~ 10</Filter>
+    </ClCompile>
+    <ClCompile Include="Lightning.cpp">
+      <Filter>playGround\Skill\SK No. 01 ~ 10</Filter>
+    </ClCompile>
+    <ClCompile Include="Pound.cpp">
+      <Filter>playGround\Skill\SK No. 01 ~ 10</Filter>
+    </ClCompile>
+    <ClCompile Include="RockSlide.cpp">
+      <Filter>playGround\Skill\SK No. 01 ~ 10</Filter>
+    </ClCompile>
+    <ClCompile Include="ThunderFang.cpp">
+      <Filter>playGround\Skill\SK No. 01 ~ 10</Filter>
+    </ClCompile>
+    <ClCompile Include="Bind.cpp">
+      <Filter>playGround\Skill\SK No. 11 ~ 20</Filter>
+    </ClCompile>
+    <ClCompile Include="CrossChop.cpp">
+      <Filter>playGround\Skill\SK No. 11 ~ 20</Filter>
+    </ClCompile>
+    <ClCompile Include="FeintAttack.cpp">
+      <Filter>playGround\Skill\SK No. 11 ~ 20</Filter>
+    </ClCompile>
+    <ClCompile Include="MetalClaw.cpp">
+      <Filter>playGround\Skill\SK No. 11 ~ 20</Filter>
+    </ClCompile>
+    <ClCompile Include="PoisonPowder.cpp">
+      <Filter>playGround\Skill\SK No. 11 ~ 20</Filter>
+    </ClCompile>
+    <ClCompile Include="RockSmash.cpp">
+      <Filter>playGround\Skill\SK No. 11 ~ 20</Filter>
+    </ClCompile>
+    <ClCompile Include="ShadowClaw.cpp">
+      <Filter>playGround\Skill\SK No. 11 ~ 20</Filter>
+    </ClCompile>
+    <ClCompile Include="SleepPowder.cpp">
+      <Filter>playGround\Skill\SK No. 11 ~ 20</Filter>
+    </ClCompile>
+    <ClCompile Include="StunSpore.cpp">
+      <Filter>playGround\Skill\SK No. 11 ~ 20</Filter>
+    </ClCompile>
+    <ClCompile Include="TriAttack.cpp">
+      <Filter>playGround\Skill\SK No. 11 ~ 20</Filter>
+    </ClCompile>
+    <ClCompile Include="SheerCold.cpp">
+      <Filter>playGround\Skill\SK No. 21 ~ 30</Filter>
+    </ClCompile>
+    <ClCompile Include="VineWhip.cpp">
+      <Filter>playGround\Skill\SK No. 21 ~ 30</Filter>
+    </ClCompile>
+    <ClCompile Include="WakeUpSlap.cpp">
+      <Filter>playGround\Skill\SK No. 21 ~ 30</Filter>
+    </ClCompile>
+    <ClCompile Include="Waterfall.cpp">
+      <Filter>playGround\Skill\SK No. 21 ~ 30</Filter>
+    </ClCompile>
+    <ClCompile Include="WingAttack.cpp">
+      <Filter>playGround\Skill\SK No. 21 ~ 30</Filter>
+    </ClCompile>
+    <ClCompile Include="EF_DracoMeteor.cpp">
+      <Filter>playGround\Skill\Effect\EF No. 21 ~ 30</Filter>
+    </ClCompile>
+    <ClCompile Include="DracoMeteor.cpp">
+      <Filter>playGround\Skill\SK No. 21 ~ 30</Filter>
+    </ClCompile>
+    <ClCompile Include="mainScene.cpp">
+      <Filter>playGround\Stage</Filter>
+    </ClCompile>
+    <ClCompile Include="TitleMenuU.cpp">
+      <Filter>playGround\UI\Menu\UpMenu</Filter>
+    </ClCompile>
+    <ClCompile Include="TitleMenuD.cpp">
+      <Filter>playGround\UI\Menu\DownMenu</Filter>
+    </ClCompile>
+    <ClCompile Include="loadingScene.cpp">
+      <Filter>playGround\Stage</Filter>
+    </ClCompile>
+    <ClCompile Include="resultScene.cpp">
+      <Filter>playGround\Stage</Filter>
+    </ClCompile>
+    <ClCompile Include="ResultMenu.cpp">
+      <Filter>playGround\UI\Menu\DownMenu</Filter>
+    </ClCompile>
+    <ClCompile Include="BlackMenu.cpp">
+      <Filter>playGround\UI\Menu\UpMenu</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="video.h">
+      <Filter>2DGameFramework\video</Filter>
+    </ClInclude>
+    <ClInclude Include="Apple.h">
+      <Filter>playGround\Item</Filter>
+    </ClInclude>
+    <ClInclude Include="battleManager.h">
+      <Filter>playGround\Battle</Filter>
+    </ClInclude>
+    <ClInclude Include="bossMapScene.h">
+      <Filter>playGround\Stage</Filter>
+    </ClInclude>
+    <ClInclude Include="Bulbasaur.h">
+      <Filter>playGround\Pokémon\No.01 ~ 09</Filter>
+    </ClInclude>
+    <ClInclude Include="Blastoise.h">
+      <Filter>playGround\Pokémon\No.10 ~ 19</Filter>
+    </ClInclude>
+    <ClInclude Include="cameraManager.h">
+      <Filter>2DGameFramework\Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="Charizard.h">
+      <Filter>playGround\Pokémon\No.01 ~ 09</Filter>
+    </ClInclude>
+    <ClInclude Include="Celebi.h">
+      <Filter>playGround\Pokémon\No.30 ~ 39</Filter>
+    </ClInclude>
+    <ClInclude Include="Charmander.h">
+      <Filter>playGround\Pokémon\No.01 ~ 09</Filter>
+    </ClInclude>
+    <ClInclude Include="Charmeleon.h">
+      <Filter>playGround\Pokémon\No.01 ~ 09</Filter>
+    </ClInclude>
+    <ClInclude Include="collisionManager.h">
+      <Filter>2DGameFramework\Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="Crobat.h">
+      <Filter>playGround\Pokémon\No.10 ~ 19</Filter>
+    </ClInclude>
+    <ClInclude Include="Darkrai.h">
+      <Filter>playGround\Pokémon\No.10 ~ 19</Filter>
+    </ClInclude>
+    <ClInclude Include="DefaultAttack.h">
+      <Filter>playGround\Skill</Filter>
+    </ClInclude>
+    <ClInclude Include="dialogManager.h">
+      <Filter>playGround\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="Diglett.h">
+      <Filter>playGround\Pokémon\No.20 ~ 29</Filter>
+    </ClInclude>
+    <ClInclude Include="dImage.h">
+      <Filter>2DGameFramework\image</Filter>
+    </ClInclude>
+    <ClInclude Include="DownMenu.h">
+      <Filter>playGround\UI\Menu\DownMenu\base</Filter>
+    </ClInclude>
+    <ClInclude Include="Dragonair.h">
+      <Filter>playGround\Pokémon\No.10 ~ 19</Filter>
+    </ClInclude>
+    <ClInclude Include="Dragonite.h">
+      <Filter>playGround\Pokémon\No.10 ~ 19</Filter>
+    </ClInclude>
+    <ClInclude Include="Dratini.h">
+      <Filter>playGround\Pokémon\No.10 ~ 19</Filter>
+    </ClInclude>
+    <ClInclude Include="dtdManager.h">
+      <Filter>2DGameFramework\Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="Dugtrio.h">
+      <Filter>playGround\Pokémon\No.20 ~ 29</Filter>
+    </ClInclude>
+    <ClInclude Include="dungeonScene.h">
+      <Filter>playGround\Stage</Filter>
+    </ClInclude>
+    <ClInclude Include="dungeonSelectScene.h">
+      <Filter>playGround\Stage</Filter>
+    </ClInclude>
+    <ClInclude Include="Eevee.h">
+      <Filter>playGround\Pokémon\No.20 ~ 29</Filter>
+    </ClInclude>
+    <ClInclude Include="Effect.h">
+      <Filter>playGround\Skill\Effect\base</Filter>
+    </ClInclude>
+    <ClInclude Include="EffectManager.h">
+      <Filter>playGround\Skill\Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="Enemy.h">
+      <Filter>playGround\Pokémon\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="Espeon.h">
+      <Filter>playGround\Pokémon\No.20 ~ 29</Filter>
+    </ClInclude>
+    <ClInclude Include="Flareon.h">
+      <Filter>playGround\Pokémon\No.20 ~ 29</Filter>
+    </ClInclude>
+    <ClInclude Include="gameNode.h">
+      <Filter>2DGameFramework</Filter>
+    </ClInclude>
+    <ClInclude Include="GarbageTM.h">
+      <Filter>playGround\Item</Filter>
+    </ClInclude>
+    <ClInclude Include="Giratina.h">
+      <Filter>playGround\Pokémon\No.30 ~ 39</Filter>
+    </ClInclude>
+    <ClInclude Include="Glass.h">
+      <Filter>playGround\Item</Filter>
+    </ClInclude>
+    <ClInclude Include="Golbat.h">
+      <Filter>playGround\Pokémon\No.10 ~ 19</Filter>
+    </ClInclude>
+    <ClInclude Include="Gummy.h">
+      <Filter>playGround\Item</Filter>
+    </ClInclude>
+    <ClInclude Include="Hariyama.h">
+      <Filter>playGround\Pokémon\No.30 ~ 39</Filter>
+    </ClInclude>
+    <ClInclude Include="image.h">
+      <Filter>2DGameFramework\image</Filter>
+    </ClInclude>
+    <ClInclude Include="imageManager.h">
+      <Filter>2DGameFramework\Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="InvenMenu.h">
+      <Filter>playGround\UI\Menu\DownMenu</Filter>
+    </ClInclude>
+    <ClInclude Include="InventoryManager.h">
+      <Filter>playGround\Item</Filter>
+    </ClInclude>
+    <ClInclude Include="Item.h">
+      <Filter>playGround\Item\base</Filter>
+    </ClInclude>
+    <ClInclude Include="ItemManager.h">
+      <Filter>playGround\Item</Filter>
+    </ClInclude>
+    <ClInclude Include="Ivysaur.h">
+      <Filter>playGround\Pokémon\No.01 ~ 09</Filter>
+    </ClInclude>
+    <ClInclude Include="Jolteon.h">
+      <Filter>playGround\Pokémon\No.20 ~ 29</Filter>
+    </ClInclude>
+    <ClInclude Include="keyManager.h">
+      <Filter>2DGameFramework\Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="KeyMenu.h">
+      <Filter>playGround\UI\Menu\UpMenu</Filter>
+    </ClInclude>
+    <ClInclude Include="KeyNDirect.h">
+      <Filter>playGround\Pokémon\Player\base</Filter>
+    </ClInclude>
+    <ClInclude Include="Lapras.h">
+      <Filter>playGround\Pokémon\No.20 ~ 29</Filter>
+    </ClInclude>
+    <ClInclude Include="LogMenu.h">
+      <Filter>playGround\UI\Menu\DownMenu</Filter>
+    </ClInclude>
+    <ClInclude Include="Lunatone.h">
+      <Filter>playGround\Pokémon\No.30 ~ 39</Filter>
+    </ClInclude>
+    <ClInclude Include="MainMenu.h">
+      <Filter>playGround\UI\Menu\DownMenu</Filter>
+    </ClInclude>
+    <ClInclude Include="Makuhita.h">
+      <Filter>playGround\Pokémon\No.30 ~ 39</Filter>
+    </ClInclude>
+    <ClInclude Include="maptool.h">
+      <Filter>playGround\Maptool</Filter>
+    </ClInclude>
+    <ClInclude Include="mapToolScene.h">
+      <Filter>playGround\Stage</Filter>
+    </ClInclude>
+    <ClInclude Include="Mawile.h">
+      <Filter>playGround\Pokémon\No.20 ~ 29</Filter>
+    </ClInclude>
+    <ClInclude Include="MenuHeader.h">
+      <Filter>playGround\UI\Menu</Filter>
+    </ClInclude>
+    <ClInclude Include="macroFunc.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="PathFinder.h">
+      <Filter>playGround\Pokémon\Player\Pattern\A%2a</Filter>
+    </ClInclude>
+    <ClInclude Include="PatternOnAttack.h">
+      <Filter>playGround\Pokémon\Player\Pattern\OnAttack</Filter>
+    </ClInclude>
+    <ClInclude Include="PatternPathFinder.h">
+      <Filter>playGround\Pokémon\Player\Pattern\PathFinder</Filter>
+    </ClInclude>
+    <ClInclude Include="Pattern.h">
+      <Filter>playGround\Pokémon\Player\Pattern\base</Filter>
+    </ClInclude>
+    <ClInclude Include="Atile.h">
+      <Filter>playGround\Pokémon\Player\Pattern\A%2a</Filter>
+    </ClInclude>
+    <ClInclude Include="Pichu.h">
+      <Filter>playGround\Pokémon\No.01 ~ 09</Filter>
+    </ClInclude>
+    <ClInclude Include="Pikachu.h">
+      <Filter>playGround\Pokémon\No.01 ~ 09</Filter>
+    </ClInclude>
+    <ClInclude Include="playGround.h">
+      <Filter>playGround</Filter>
+    </ClInclude>
+    <ClInclude Include="pokeDex.h">
+      <Filter>playGround\PokéDex</Filter>
+    </ClInclude>
+    <ClInclude Include="Pokemon.h">
+      <Filter>playGround\Pokémon\base</Filter>
+    </ClInclude>
+    <ClInclude Include="PokemonHeader.h">
+      <Filter>playGround\Pokémon\base</Filter>
+    </ClInclude>
+    <ClInclude Include="PokemonType.h">
+      <Filter>playGround\PokéDex</Filter>
+    </ClInclude>
+    <ClInclude Include="printManager.h">
+      <Filter>2DGameFramework\Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="Raichu.h">
+      <Filter>playGround\Pokémon\No.01 ~ 09</Filter>
+    </ClInclude>
+    <ClInclude Include="randomFunction.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Regice.h">
+      <Filter>playGround\Pokémon\No.30 ~ 39</Filter>
+    </ClInclude>
+    <ClInclude Include="Regirock.h">
+      <Filter>playGround\Pokémon\No.30 ~ 39</Filter>
+    </ClInclude>
+    <ClInclude Include="Registeel.h">
+      <Filter>playGround\Pokémon\No.30 ~ 39</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Ribbon.h">
+      <Filter>playGround\Item</Filter>
+    </ClInclude>
+    <ClInclude Include="Scene.h">
+      <Filter>playGround\Stage\base</Filter>
+    </ClInclude>
+    <ClInclude Include="sceneManager.h">
+      <Filter>2DGameFramework\Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="Scope.h">
+      <Filter>playGround\Item</Filter>
+    </ClInclude>
+    <ClInclude Include="singletonBase.h">
+      <Filter>2DGameFramework\SingletonBase</Filter>
+    </ClInclude>
+    <ClInclude Include="Skill.h">
+      <Filter>playGround\Skill\base</Filter>
+    </ClInclude>
+    <ClInclude Include="skillDex.h">
+      <Filter>playGround\PokéDex</Filter>
+    </ClInclude>
+    <ClInclude Include="SkillHeader.h">
+      <Filter>playGround\Skill\base</Filter>
+    </ClInclude>
+    <ClInclude Include="SkillMenu.h">
+      <Filter>playGround\UI\Menu\DownMenu</Filter>
+    </ClInclude>
+    <ClInclude Include="Solrock.h">
+      <Filter>playGround\Pokémon\No.30 ~ 39</Filter>
+    </ClInclude>
+    <ClInclude Include="soundManager.h">
+      <Filter>2DGameFramework\Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="Squirtle.h">
+      <Filter>playGround\Pokémon\No.10 ~ 19</Filter>
+    </ClInclude>
+    <ClInclude Include="StatusMenu.h">
+      <Filter>playGround\UI\Menu\UpMenu</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="streamManager.h">
+      <Filter>2DGameFramework\Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Team.h">
+      <Filter>playGround\Pokémon\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="ThrowItem.h">
+      <Filter>playGround\Item</Filter>
+    </ClInclude>
+    <ClInclude Include="tileInfo.h">
+      <Filter>playGround\Maptool\base</Filter>
+    </ClInclude>
+    <ClInclude Include="tileManager.h">
+      <Filter>playGround\Maptool\base</Filter>
+    </ClInclude>
+    <ClInclude Include="timeManager.h">
+      <Filter>2DGameFramework\Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="timer.h">
+      <Filter>2DGameFramework\timer</Filter>
+    </ClInclude>
+    <ClInclude Include="titleScene.h">
+      <Filter>playGround\Stage</Filter>
+    </ClInclude>
+    <ClInclude Include="TMachine.h">
+      <Filter>playGround\Item</Filter>
+    </ClInclude>
+    <ClInclude Include="turnManager.h">
+      <Filter>playGround\Battle</Filter>
+    </ClInclude>
+    <ClInclude Include="txtData.h">
+      <Filter>2DGameFramework\Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="uiManager.h">
+      <Filter>playGround\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="Umbreon.h">
+      <Filter>playGround\Pokémon\No.20 ~ 29</Filter>
+    </ClInclude>
+    <ClInclude Include="UpMenu.h">
+      <Filter>playGround\UI\Menu\UpMenu\base</Filter>
+    </ClInclude>
+    <ClInclude Include="User.h">
+      <Filter>playGround\Pokémon\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="Vaporeon.h">
+      <Filter>playGround\Pokémon\No.20 ~ 29</Filter>
+    </ClInclude>
+    <ClInclude Include="Venusaur.h">
+      <Filter>playGround\Pokémon\No.01 ~ 09</Filter>
+    </ClInclude>
+    <ClInclude Include="Wartortle.h">
+      <Filter>playGround\Pokémon\No.10 ~ 19</Filter>
+    </ClInclude>
+    <ClInclude Include="Zubat.h">
+      <Filter>playGround\Pokémon\No.10 ~ 19</Filter>
+    </ClInclude>
+    <ClInclude Include="utils.h">
+      <Filter>2DGameFramework\Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>playGround\Pokémon\Player\base</Filter>
+    </ClInclude>
+    <ClInclude Include="EF_FireBlast.h">
+      <Filter>playGround\Skill\Effect\EF No. 01 ~ 10</Filter>
+    </ClInclude>
+    <ClInclude Include="EF_FireFang.h">
+      <Filter>playGround\Skill\Effect\EF No. 01 ~ 10</Filter>
+    </ClInclude>
+    <ClInclude Include="EF_Gust.h">
+      <Filter>playGround\Skill\Effect\EF No. 01 ~ 10</Filter>
+    </ClInclude>
+    <ClInclude Include="EF_IceFang.h">
+      <Filter>playGround\Skill\Effect\EF No. 01 ~ 10</Filter>
+    </ClInclude>
+    <ClInclude Include="EF_LeafBlade.h">
+      <Filter>playGround\Skill\Effect\EF No. 01 ~ 10</Filter>
+    </ClInclude>
+    <ClInclude Include="EF_Lightning.h">
+      <Filter>playGround\Skill\Effect\EF No. 01 ~ 10</Filter>
+    </ClInclude>
+    <ClInclude Include="EF_DynamicPunch.h">
+      <Filter>playGround\Skill\Effect\EF No. 01 ~ 10</Filter>
+    </ClInclude>
+    <ClInclude Include="EF_Pound.h">
+      <Filter>playGround\Skill\Effect\EF No. 01 ~ 10</Filter>
+    </ClInclude>
+    <ClInclude Include="EF_ThunderFang.h">
+      <Filter>playGround\Skill\Effect\EF No. 01 ~ 10</Filter>
+    </ClInclude>
+    <ClInclude Include="EF_RockSlide.h">
+      <Filter>playGround\Skill\Effect\EF No. 01 ~ 10</Filter>
+    </ClInclude>
+    <ClInclude Include="EF_PoisonPowder.h">
+      <Filter>playGround\Skill\Effect\EF No. 11 ~ 20</Filter>
+    </ClInclude>
+    <ClInclude Include="EF_RockSmash.h">
+      <Filter>playGround\Skill\Effect\EF No. 11 ~ 20</Filter>
+    </ClInclude>
+    <ClInclude Include="EF_SleepPowder.h">
+      <Filter>playGround\Skill\Effect\EF No. 11 ~ 20</Filter>
+    </ClInclude>
+    <ClInclude Include="EF_StunSpore.h">
+      <Filter>playGround\Skill\Effect\EF No. 11 ~ 20</Filter>
+    </ClInclude>
+    <ClInclude Include="EF_TriAttack.h">
+      <Filter>playGround\Skill\Effect\EF No. 11 ~ 20</Filter>
+    </ClInclude>
+    <ClInclude Include="EF_ShadowClaw.h">
+      <Filter>playGround\Skill\Effect\EF No. 11 ~ 20</Filter>
+    </ClInclude>
+    <ClInclude Include="EF_MetalClaw.h">
+      <Filter>playGround\Skill\Effect\EF No. 11 ~ 20</Filter>
+    </ClInclude>
+    <ClInclude Include="EF_FeintAttack.h">
+      <Filter>playGround\Skill\Effect\EF No. 11 ~ 20</Filter>
+    </ClInclude>
+    <ClInclude Include="EF_CrossChop.h">
+      <Filter>playGround\Skill\Effect\EF No. 11 ~ 20</Filter>
+    </ClInclude>
+    <ClInclude Include="EF_Bind.h">
+      <Filter>playGround\Skill\Effect\EF No. 11 ~ 20</Filter>
+    </ClInclude>
+    <ClInclude Include="EF_Default.h">
+      <Filter>playGround\Skill\Effect\EF No. 21 ~ 30</Filter>
+    </ClInclude>
+    <ClInclude Include="EF_SheerCold.h">
+      <Filter>playGround\Skill\Effect\EF No. 21 ~ 30</Filter>
+    </ClInclude>
+    <ClInclude Include="EF_VineWhip.h">
+      <Filter>playGround\Skill\Effect\EF No. 21 ~ 30</Filter>
+    </ClInclude>
+    <ClInclude Include="EF_WakeUpSlap.h">
+      <Filter>playGround\Skill\Effect\EF No. 21 ~ 30</Filter>
+    </ClInclude>
+    <ClInclude Include="EF_Waterfall.h">
+      <Filter>playGround\Skill\Effect\EF No. 21 ~ 30</Filter>
+    </ClInclude>
+    <ClInclude Include="EF_WingAttack.h">
+      <Filter>playGround\Skill\Effect\EF No. 21 ~ 30</Filter>
+    </ClInclude>
+    <ClInclude Include="DynamicPunch.h">
+      <Filter>playGround\Skill\SK No. 01 ~ 10</Filter>
+    </ClInclude>
+    <ClInclude Include="FireBlast.h">
+      <Filter>playGround\Skill\SK No. 01 ~ 10</Filter>
+    </ClInclude>
+    <ClInclude Include="FireFang.h">
+      <Filter>playGround\Skill\SK No. 01 ~ 10</Filter>
+    </ClInclude>
+    <ClInclude Include="Gust.h">
+      <Filter>playGround\Skill\SK No. 01 ~ 10</Filter>
+    </ClInclude>
+    <ClInclude Include="IceFang.h">
+      <Filter>playGround\Skill\SK No. 01 ~ 10</Filter>
+    </ClInclude>
+    <ClInclude Include="LeafBlade.h">
+      <Filter>playGround\Skill\SK No. 01 ~ 10</Filter>
+    </ClInclude>
+    <ClInclude Include="Lightning.h">
+      <Filter>playGround\Skill\SK No. 01 ~ 10</Filter>
+    </ClInclude>
+    <ClInclude Include="Pound.h">
+      <Filter>playGround\Skill\SK No. 01 ~ 10</Filter>
+    </ClInclude>
+    <ClInclude Include="RockSlide.h">
+      <Filter>playGround\Skill\SK No. 01 ~ 10</Filter>
+    </ClInclude>
+    <ClInclude Include="ThunderFang.h">
+      <Filter>playGround\Skill\SK No. 01 ~ 10</Filter>
+    </ClInclude>
+    <ClInclude Include="Bind.h">
+      <Filter>playGround\Skill\SK No. 11 ~ 20</Filter>
+    </ClInclude>
+    <ClInclude Include="CrossChop.h">
+      <Filter>playGround\Skill\SK No. 11 ~ 20</Filter>
+    </ClInclude>
+    <ClInclude Include="FeintAttack.h">
+      <Filter>playGround\Skill\SK No. 11 ~ 20</Filter>
+    </ClInclude>
+    <ClInclude Include="MetalClaw.h">
+      <Filter>playGround\Skill\SK No. 11 ~ 20</Filter>
+    </ClInclude>
+    <ClInclude Include="PoisonPowder.h">
+      <Filter>playGround\Skill\SK No. 11 ~ 20</Filter>
+    </ClInclude>
+    <ClInclude Include="RockSmash.h">
+      <Filter>playGround\Skill\SK No. 11 ~ 20</Filter>
+    </ClInclude>
+    <ClInclude Include="ShadowClaw.h">
+      <Filter>playGround\Skill\SK No. 11 ~ 20</Filter>
+    </ClInclude>
+    <ClInclude Include="SleepPowder.h">
+      <Filter>playGround\Skill\SK No. 11 ~ 20</Filter>
+    </ClInclude>
+    <ClInclude Include="StunSpore.h">
+      <Filter>playGround\Skill\SK No. 11 ~ 20</Filter>
+    </ClInclude>
+    <ClInclude Include="TriAttack.h">
+      <Filter>playGround\Skill\SK No. 11 ~ 20</Filter>
+    </ClInclude>
+    <ClInclude Include="SheerCold.h">
+      <Filter>playGround\Skill\SK No. 21 ~ 30</Filter>
+    </ClInclude>
+    <ClInclude Include="VineWhip.h">
+      <Filter>playGround\Skill\SK No. 21 ~ 30</Filter>
+    </ClInclude>
+    <ClInclude Include="WakeUpSlap.h">
+      <Filter>playGround\Skill\SK No. 21 ~ 30</Filter>
+    </ClInclude>
+    <ClInclude Include="Waterfall.h">
+      <Filter>playGround\Skill\SK No. 21 ~ 30</Filter>
+    </ClInclude>
+    <ClInclude Include="WingAttack.h">
+      <Filter>playGround\Skill\SK No. 21 ~ 30</Filter>
+    </ClInclude>
+    <ClInclude Include="EF_DracoMeteor.h">
+      <Filter>playGround\Skill\Effect\EF No. 21 ~ 30</Filter>
+    </ClInclude>
+    <ClInclude Include="DracoMeteor.h">
+      <Filter>playGround\Skill\SK No. 21 ~ 30</Filter>
+    </ClInclude>
+    <ClInclude Include="mainScene.h">
+      <Filter>playGround\Stage</Filter>
+    </ClInclude>
+    <ClInclude Include="TitleMenuU.h">
+      <Filter>playGround\UI\Menu\UpMenu</Filter>
+    </ClInclude>
+    <ClInclude Include="TitleMenuD.h">
+      <Filter>playGround\UI\Menu\DownMenu</Filter>
+    </ClInclude>
+    <ClInclude Include="loadingScene.h">
+      <Filter>playGround\Stage</Filter>
+    </ClInclude>
+    <ClInclude Include="resultScene.h">
+      <Filter>playGround\Stage</Filter>
+    </ClInclude>
+    <ClInclude Include="ResultMenu.h">
+      <Filter>playGround\UI\Menu\DownMenu</Filter>
+    </ClInclude>
+    <ClInclude Include="BlackMenu.h">
+      <Filter>playGround\UI\Menu\UpMenu</Filter>
+    </ClInclude>
+    <ClInclude Include="SceneHeader.h">
+      <Filter>playGround\Stage\base</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="small.ico">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="windowAPI.ico">
+      <Filter>리소스 파일</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="2DGameFramework">
+      <UniqueIdentifier>{66dc1c79-b083-4744-9a20-d5ec6fb4728e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="2DGameFramework\image">
+      <UniqueIdentifier>{8faca1df-5c9c-4206-b461-0b5b77f8b222}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="2DGameFramework\Manager">
+      <UniqueIdentifier>{98a454ac-91c0-40c8-89c2-ec594f656a94}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="2DGameFramework\SingletonBase">
+      <UniqueIdentifier>{8854fb26-abab-471c-8667-cadeffa56dbc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="2DGameFramework\timer">
+      <UniqueIdentifier>{5d491a93-7115-4fd2-bb6c-582a3a2be974}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="2DGameFramework\Utils">
+      <UniqueIdentifier>{6286ef8e-35bb-4ad0-a982-cda14262a19a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="2DGameFramework\video">
+      <UniqueIdentifier>{ce14c4a0-bb80-4653-8e3d-b79ba775c2d8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="playGround">
+      <UniqueIdentifier>{612589cc-83d7-4f97-9a55-f5e7f0286c3d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="playGround\Battle">
+      <UniqueIdentifier>{86d87185-722e-460c-b86e-4ab9f96470b3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="playGround\Item">
+      <UniqueIdentifier>{e8595aa3-f51b-4613-94de-f1214a6e0b7d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="playGround\Item\base">
+      <UniqueIdentifier>{79de5172-3fe9-4f96-87a2-3d0df9b98bb3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="playGround\Maptool">
+      <UniqueIdentifier>{3ea1baac-81ef-4e27-9ca6-ab5b7e036c0d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="playGround\PokéDex">
+      <UniqueIdentifier>{c5ee28e1-6ee6-4995-8972-6ccef6c572f7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="playGround\Pokémon">
+      <UniqueIdentifier>{891c8d92-4880-4605-a739-bdfcc90b90fd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="playGround\Pokémon\base">
+      <UniqueIdentifier>{2cf2da40-b161-4dd4-80e5-a8c7cb528ab4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="playGround\Pokémon\No.01 ~ 09">
+      <UniqueIdentifier>{9157d553-7b9d-4be8-b00e-a0f75c993b83}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="playGround\Pokémon\No.10 ~ 19">
+      <UniqueIdentifier>{bf74f09f-6f04-40d5-862d-0d82d6d9770d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="playGround\Pokémon\No.20 ~ 29">
+      <UniqueIdentifier>{9249d369-a6f2-40ac-b3ef-e9da3262f6f4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="playGround\Pokémon\No.30 ~ 39">
+      <UniqueIdentifier>{fdcd6ac1-ecd3-4f29-8ecb-a887b83298ea}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="playGround\Pokémon\Player">
+      <UniqueIdentifier>{6178c1de-e622-4fb2-a7e5-96da7cd7923b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="playGround\Skill">
+      <UniqueIdentifier>{4fcb4bd3-9b8c-400b-9198-a7b47beb4640}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="playGround\Skill\Effect">
+      <UniqueIdentifier>{b7715ee3-bac4-46d8-a95b-b6caa2013c40}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="playGround\Skill\Effect\base">
+      <UniqueIdentifier>{908b3897-ffc4-442f-8f42-072343cfc81f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="playGround\Stage">
+      <UniqueIdentifier>{504ddfa5-d154-431d-9e4f-380047897565}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="playGround\UI">
+      <UniqueIdentifier>{86b09f35-d85d-4187-bb15-c3ef5dd59954}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="playGround\UI\Menu">
+      <UniqueIdentifier>{c1711455-bd26-42eb-be98-dbed1047b8e0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="playGround\UI\Menu\DownMenu">
+      <UniqueIdentifier>{a6e96eef-ec61-4429-a582-b370b4a783ec}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="playGround\UI\Menu\DownMenu\base">
+      <UniqueIdentifier>{3e30433a-9f96-4e92-b677-ce77b7b50b5b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="playGround\UI\Menu\UpMenu">
+      <UniqueIdentifier>{d88e6247-26a8-419e-8fa8-211ff2f219a8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="playGround\UI\Menu\UpMenu\base">
+      <UniqueIdentifier>{9e6cc6e3-25f9-430d-b6fd-6b0897029375}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="playGround\Pokémon\Player\base">
+      <UniqueIdentifier>{67658675-6a2e-4367-baa9-60fc797979f1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{2e2fceae-66af-4514-84a4-b912abd77e54}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{f94f3106-78c4-4b83-9f6f-1522ca873fe3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="playGround\Pokémon\Player\Pattern">
+      <UniqueIdentifier>{82fcc3da-5cea-4020-b8ad-a9a425a90a9d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="playGround\Pokémon\Player\Pattern\A%2a">
+      <UniqueIdentifier>{64c225b5-da51-432e-b6ac-7504ed8d2e09}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="playGround\Pokémon\Player\Pattern\base">
+      <UniqueIdentifier>{8f120981-8b57-4e73-bdf7-795aa254deb5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="playGround\Pokémon\Player\Pattern\OnAttack">
+      <UniqueIdentifier>{b5fb49fa-32b0-4653-b1c4-983920e8db66}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="playGround\Pokémon\Player\Pattern\PathFinder">
+      <UniqueIdentifier>{6d1fdbbc-8264-4a60-8ec9-921cd64e56ac}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="playGround\Stage\base">
+      <UniqueIdentifier>{8b044b3d-435d-4233-8157-6cc8b84b810b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="playGround\Skill\base">
+      <UniqueIdentifier>{46a04e5a-3119-4405-9da4-25fe28f81cae}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="playGround\Maptool\base">
+      <UniqueIdentifier>{60b1438b-78e2-43f7-a1ae-1655dbbd68f8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="playGround\Skill\Effect\EF No. 11 ~ 20">
+      <UniqueIdentifier>{bd5e6047-e0ad-4ed5-8fae-eda6543b421e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="playGround\Skill\Effect\EF No. 01 ~ 10">
+      <UniqueIdentifier>{f83770cf-5f7d-4196-a4a3-6c2079f022ab}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="playGround\Skill\Effect\EF No. 21 ~ 30">
+      <UniqueIdentifier>{00f7c14e-cd8a-40e4-8da3-9569b7ec3adf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="playGround\Skill\SK No. 01 ~ 10">
+      <UniqueIdentifier>{0e279077-fe83-4017-b63c-46cee919ff50}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="playGround\Skill\SK No. 21 ~ 30">
+      <UniqueIdentifier>{25a43acc-b56a-4276-9629-978f312172c0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="playGround\Skill\SK No. 11 ~ 20">
+      <UniqueIdentifier>{ee7b6641-e1aa-4411-93da-cfa0bc3a3a39}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{eadd8184-fa4a-4bde-9cff-55aab432b36a}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="windowAPI.rc">
+      <Filter>리소스 파일</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>

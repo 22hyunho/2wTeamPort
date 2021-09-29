@@ -1,0 +1,594 @@
+﻿  stdafx.cpp
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\dimage.h(142): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\dimage.h(143): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\dimage.h(172): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\dimage.h(173): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\player.h(102): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Atile.cpp
+  battleManager.cpp
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\battlemanager.cpp(57): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\battlemanager.cpp(69): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\battlemanager.cpp(70): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\battlemanager.cpp(71): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\battlemanager.cpp(72): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\battlemanager.cpp(73): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\battlemanager.cpp(74): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\battlemanager.cpp(102): warning C4002: 함수 같은 매크로 호출 'SKILL_CALCULATION'에 대해 인수가 너무 많습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\battlemanager.cpp(83): warning C4101: 'equip' :참조되지 않은 지역 변수입니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\battlemanager.cpp(127): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\battlemanager.cpp(150): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Bind.cpp
+  BlackMenu.cpp
+  Blastoise.cpp
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\blastoise.cpp(60): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\blastoise.cpp(61): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\blastoise.cpp(62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\blastoise.cpp(63): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  bossMapScene.cpp
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\bossmapscene.cpp(14): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Bulbasaur.cpp
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\bulbasaur.cpp(62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\bulbasaur.cpp(63): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\bulbasaur.cpp(64): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\bulbasaur.cpp(65): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  cameraManager.cpp
+  Celebi.cpp
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\celebi.cpp(60): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\celebi.cpp(61): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\celebi.cpp(62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\celebi.cpp(63): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Charizard.cpp
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\charizard.cpp(60): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\charizard.cpp(61): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\charizard.cpp(62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\charizard.cpp(63): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\charizard.cpp(66): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+  Charmander.cpp
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\charmander.cpp(60): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\charmander.cpp(61): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\charmander.cpp(62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\charmander.cpp(63): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\charmander.cpp(66): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+  Charmeleon.cpp
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\charmeleon.cpp(60): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\charmeleon.cpp(61): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\charmeleon.cpp(62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\charmeleon.cpp(63): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\charmeleon.cpp(66): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+  collisionManager.cpp
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\collisionmanager.cpp(38): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\collisionmanager.cpp(84): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\collisionmanager.cpp(105): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\collisionmanager.cpp(106): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\collisionmanager.cpp(109): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\collisionmanager.cpp(110): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\collisionmanager.cpp(189): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\collisionmanager.cpp(190): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\collisionmanager.cpp(245): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\collisionmanager.cpp(246): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\collisionmanager.cpp(247): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\collisionmanager.cpp(248): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\collisionmanager.cpp(250): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\collisionmanager.cpp(251): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\collisionmanager.cpp(259): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\collisionmanager.cpp(260): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\collisionmanager.cpp(289): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Crobat.cpp
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\crobat.cpp(60): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\crobat.cpp(61): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\crobat.cpp(62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\crobat.cpp(63): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  CrossChop.cpp
+  Darkrai.cpp
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\darkrai.cpp(60): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\darkrai.cpp(61): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\darkrai.cpp(62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\darkrai.cpp(63): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  DefaultAttack.cpp
+  dialogManager.cpp
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\dialogmanager.cpp(60): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\dialogmanager.cpp(61): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\dialogmanager.cpp(84): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\dialogmanager.cpp(85): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\dialogmanager.cpp(90): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\dialogmanager.cpp(91): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Diglett.cpp
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\diglett.cpp(60): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\diglett.cpp(61): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\diglett.cpp(62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\diglett.cpp(63): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\diglett.cpp(66): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+  dImage.cpp
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\dimage.cpp(147): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\dimage.cpp(155): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\dimage.cpp(163): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\dimage.cpp(164): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\dimage.cpp(173): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\dimage.cpp(176): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\dimage.cpp(175): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\dimage.cpp(185): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\dimage.cpp(188): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\dimage.cpp(187): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\dimage.cpp(197): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\dimage.cpp(200): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\dimage.cpp(199): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  컴파일하고 있습니다...
+  DownMenu.cpp
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\downmenu.cpp(8): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\downmenu.cpp(9): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  DracoMeteor.cpp
+  Dragonair.cpp
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\dragonair.cpp(60): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\dragonair.cpp(61): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\dragonair.cpp(62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\dragonair.cpp(63): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Dragonite.cpp
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\dragonite.cpp(60): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\dragonite.cpp(61): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\dragonite.cpp(62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\dragonite.cpp(63): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Dratini.cpp
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\dratini.cpp(60): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\dratini.cpp(61): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\dratini.cpp(62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\dratini.cpp(63): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  dtdManager.cpp
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\dtdmanager.cpp(139): warning C4838: 'LONG'에서 'FLOAT'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\dtdmanager.cpp(139): warning C4244: '초기화 중': 'LONG'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\dtdmanager.cpp(147): error C2039: 'DrawTextA': 'ID2D1HwndRenderTarget'의 멤버가 아닙니다.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\d2d1.h(3262): note: 'ID2D1HwndRenderTarget' 선언을 참조하십시오.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\dtdmanager.cpp(147): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\dtdmanager.cpp(181): error C2039: 'DrawTextA': 'ID2D1HwndRenderTarget'의 멤버가 아닙니다.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\d2d1.h(3262): note: 'ID2D1HwndRenderTarget' 선언을 참조하십시오.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\dtdmanager.cpp(181): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\dtdmanager.cpp(186): error C2039: 'DrawTextA': 'ID2D1HwndRenderTarget'의 멤버가 아닙니다.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\d2d1.h(3262): note: 'ID2D1HwndRenderTarget' 선언을 참조하십시오.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\dtdmanager.cpp(220): error C2039: 'DrawTextA': 'ID2D1HwndRenderTarget'의 멤버가 아닙니다.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\d2d1.h(3262): note: 'ID2D1HwndRenderTarget' 선언을 참조하십시오.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\dtdmanager.cpp(225): error C2039: 'DrawTextA': 'ID2D1BitmapRenderTarget'의 멤버가 아닙니다.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\d2d1.h(3250): note: 'ID2D1BitmapRenderTarget' 선언을 참조하십시오.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\dtdmanager.cpp(225): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\dtdmanager.cpp(264): error C2039: 'DrawTextA': 'ID2D1BitmapRenderTarget'의 멤버가 아닙니다.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\d2d1.h(3250): note: 'ID2D1BitmapRenderTarget' 선언을 참조하십시오.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\dtdmanager.cpp(264): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\dtdmanager.cpp(271): error C2039: 'DrawTextA': 'ID2D1BitmapRenderTarget'의 멤버가 아닙니다.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\d2d1.h(3250): note: 'ID2D1BitmapRenderTarget' 선언을 참조하십시오.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\dtdmanager.cpp(310): error C2039: 'DrawTextA': 'ID2D1BitmapRenderTarget'의 멤버가 아닙니다.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\d2d1.h(3250): note: 'ID2D1BitmapRenderTarget' 선언을 참조하십시오.
+  Dugtrio.cpp
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\dugtrio.cpp(60): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\dugtrio.cpp(61): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\dugtrio.cpp(62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\dugtrio.cpp(63): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\dugtrio.cpp(66): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+  dungeonScene.cpp
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\dungeonscene.cpp(14): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\dungeonscene.cpp(58): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\dungeonscene.cpp(59): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  dungeonSelectScene.cpp
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\dungeonselectscene.cpp(9): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  DynamicPunch.cpp
+  Eevee.cpp
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\eevee.cpp(60): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\eevee.cpp(61): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\eevee.cpp(62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\eevee.cpp(63): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Effect.cpp
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\effect.cpp(8): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\effect.cpp(24): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\effect.cpp(23): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  EffectManager.cpp
+  EF_Bind.cpp
+  EF_CrossChop.cpp
+  EF_Default.cpp
+  EF_DracoMeteor.cpp
+  EF_DynamicPunch.cpp
+  EF_FeintAttack.cpp
+  EF_FireBlast.cpp
+  컴파일하고 있습니다...
+  EF_FireFang.cpp
+  EF_Gust.cpp
+  EF_IceFang.cpp
+  EF_LeafBlade.cpp
+  EF_Lightning.cpp
+  EF_MetalClaw.cpp
+  EF_PoisonPowder.cpp
+  EF_Pound.cpp
+  EF_RockSlide.cpp
+  EF_RockSmash.cpp
+  EF_ShadowClaw.cpp
+  EF_SheerCold.cpp
+  EF_SleepPowder.cpp
+  EF_StunSpore.cpp
+  EF_ThunderFang.cpp
+  EF_TriAttack.cpp
+  EF_VineWhip.cpp
+  EF_WakeUpSlap.cpp
+  EF_Waterfall.cpp
+  EF_WingAttack.cpp
+  컴파일하고 있습니다...
+  Enemy.cpp
+  Espeon.cpp
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\espeon.cpp(60): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\espeon.cpp(61): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\espeon.cpp(62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\espeon.cpp(63): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  FeintAttack.cpp
+  FireBlast.cpp
+  Apple.cpp
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\apple.cpp(9): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  FireFang.cpp
+  Flareon.cpp
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\flareon.cpp(60): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\flareon.cpp(61): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\flareon.cpp(62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\flareon.cpp(63): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  gameNode.cpp
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\gamenode.cpp(143): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\gamenode.cpp(144): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  GarbageTM.cpp
+  Giratina.cpp
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\giratina.cpp(60): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\giratina.cpp(61): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\giratina.cpp(62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\giratina.cpp(63): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\giratina.cpp(66): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+  Glass.cpp
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\glass.cpp(9): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Golbat.cpp
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\golbat.cpp(60): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\golbat.cpp(61): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\golbat.cpp(62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\golbat.cpp(63): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Gummy.cpp
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\gummy.cpp(9): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\gummy.cpp(171): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\gummy.cpp(170): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Gust.cpp
+  Hariyama.cpp
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\hariyama.cpp(60): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\hariyama.cpp(61): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\hariyama.cpp(62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\hariyama.cpp(63): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  IceFang.cpp
+  image.cpp
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\image.cpp(59): error C2664: 'HANDLE LoadImageW(HINSTANCE,LPCWSTR,UINT,int,int,UINT)': 인수 2을(를) 'const char *'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+  c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\image.cpp(59): note: 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\image.cpp(64): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\image.cpp(115): error C2664: 'HANDLE LoadImageW(HINSTANCE,LPCWSTR,UINT,int,int,UINT)': 인수 2을(를) 'const char *'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+  c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\image.cpp(115): note: 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\image.cpp(126): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\image.cpp(177): error C2664: 'HANDLE LoadImageW(HINSTANCE,LPCWSTR,UINT,int,int,UINT)': 인수 2을(를) 'const char *'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+  c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\image.cpp(177): note: 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\image.cpp(186): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\image.cpp(267): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\image.cpp(266): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\image.cpp(283): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\image.cpp(282): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\image.cpp(507): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\image.cpp(515): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\image.cpp(520): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  imageManager.cpp
+  InvenMenu.cpp
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\invenmenu.cpp(157): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\invenmenu.cpp(177): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\invenmenu.cpp(178): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\invenmenu.cpp(201): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\invenmenu.cpp(209): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\invenmenu.cpp(210): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\invenmenu.cpp(226): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\invenmenu.cpp(257): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  InventoryManager.cpp
+  컴파일하고 있습니다...
+  Item.cpp
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\item.cpp(8): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\item.cpp(7): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  ItemManager.cpp
+  Ivysaur.cpp
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\ivysaur.cpp(60): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\ivysaur.cpp(61): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\ivysaur.cpp(62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\ivysaur.cpp(63): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Jolteon.cpp
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\jolteon.cpp(60): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\jolteon.cpp(61): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\jolteon.cpp(62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\jolteon.cpp(63): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  keyManager.cpp
+  KeyMenu.cpp
+  Lapras.cpp
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\lapras.cpp(60): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\lapras.cpp(61): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\lapras.cpp(62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\lapras.cpp(63): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  LeafBlade.cpp
+  Lightning.cpp
+  loadingScene.cpp
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\loadingscene.cpp(83): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  LogMenu.cpp
+  Lunatone.cpp
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\lunatone.cpp(60): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\lunatone.cpp(61): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\lunatone.cpp(62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\lunatone.cpp(63): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  MainMenu.cpp
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\mainmenu.cpp(82): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  mainScene.cpp
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\mainscene.cpp(50): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\mainscene.cpp(49): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Makuhita.cpp
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\makuhita.cpp(60): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\makuhita.cpp(61): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\makuhita.cpp(62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\makuhita.cpp(63): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  maptool.cpp
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\maptool.cpp(89): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\maptool.cpp(93): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\maptool.cpp(105): error C2664: 'HANDLE CreateFileW(LPCWSTR,DWORD,DWORD,LPSECURITY_ATTRIBUTES,DWORD,DWORD,HANDLE)': 인수 1을(를) 'const char *'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+  c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\maptool.cpp(105): note: 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\maptool.cpp(116): error C2664: 'HANDLE CreateFileW(LPCWSTR,DWORD,DWORD,LPSECURITY_ATTRIBUTES,DWORD,DWORD,HANDLE)': 인수 1을(를) 'const char *'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+  c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\maptool.cpp(117): note: 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\maptool.cpp(234): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\maptool.cpp(233): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\maptool.cpp(232): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\maptool.cpp(231): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\maptool.cpp(317): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\maptool.cpp(322): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  mapToolScene.cpp
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\maptoolscene.cpp(9): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\maptoolscene.cpp(37): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\maptoolscene.cpp(52): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\maptoolscene.cpp(54): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Mawile.cpp
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\mawile.cpp(60): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\mawile.cpp(61): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\mawile.cpp(62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\mawile.cpp(63): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\mawile.cpp(66): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+  MetalClaw.cpp
+  PathFinder.cpp
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\pathfinder.cpp(58): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\pathfinder.cpp(63): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\pathfinder.cpp(69): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\pathfinder.cpp(197): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\pathfinder.cpp(205): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\pathfinder.cpp(205): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  컴파일하고 있습니다...
+  Pattern.cpp
+  PatternOnAttack.cpp
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\patternonattack.cpp(30): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\patternonattack.cpp(31): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\patternonattack.cpp(83): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\patternonattack.cpp(84): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\patternonattack.cpp(107): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\patternonattack.cpp(108): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\patternonattack.cpp(132): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\patternonattack.cpp(133): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\patternonattack.cpp(156): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\patternonattack.cpp(157): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\patternonattack.cpp(181): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\patternonattack.cpp(182): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\patternonattack.cpp(205): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\patternonattack.cpp(206): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\patternonattack.cpp(230): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\patternonattack.cpp(231): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\patternonattack.cpp(254): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\patternonattack.cpp(255): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  PatternPathFinder.cpp
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\patternpathfinder.cpp(30): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\patternpathfinder.cpp(31): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\patternpathfinder.cpp(70): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\patternpathfinder.cpp(71): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\patternpathfinder.cpp(95): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\patternpathfinder.cpp(96): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\patternpathfinder.cpp(121): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\patternpathfinder.cpp(122): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\patternpathfinder.cpp(146): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\patternpathfinder.cpp(147): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\patternpathfinder.cpp(172): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\patternpathfinder.cpp(173): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\patternpathfinder.cpp(197): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\patternpathfinder.cpp(198): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\patternpathfinder.cpp(223): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\patternpathfinder.cpp(224): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\patternpathfinder.cpp(248): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\patternpathfinder.cpp(249): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Pichu.cpp
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\pichu.cpp(60): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\pichu.cpp(61): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\pichu.cpp(62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\pichu.cpp(63): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Pikachu.cpp
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\pikachu.cpp(60): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\pikachu.cpp(61): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\pikachu.cpp(62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\pikachu.cpp(63): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\pikachu.cpp(66): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+  Player.cpp
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\player.cpp(28): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\player.cpp(79): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\player.cpp(90): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\player.cpp(92): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\player.cpp(94): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\player.cpp(146): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\player.cpp(226): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\player.cpp(230): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\player.cpp(234): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  playGround.cpp
+  PoisonPowder.cpp
+  pokeDex.cpp
+  Pokemon.cpp
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\pokemon.cpp(33): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\pokemon.cpp(32): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Pound.cpp
+  printManager.cpp
+  Raichu.cpp
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\raichu.cpp(60): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\raichu.cpp(61): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\raichu.cpp(62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\raichu.cpp(63): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Regice.cpp
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\regice.cpp(60): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\regice.cpp(61): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\regice.cpp(62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\regice.cpp(63): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Regirock.cpp
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\regirock.cpp(60): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\regirock.cpp(61): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\regirock.cpp(62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\regirock.cpp(63): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Registeel.cpp
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\registeel.cpp(60): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\registeel.cpp(61): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\registeel.cpp(62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\registeel.cpp(63): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\registeel.cpp(66): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+  ResultMenu.cpp
+  resultScene.cpp
+  Ribbon.cpp
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\ribbon.cpp(9): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  RockSlide.cpp
+  컴파일하고 있습니다...
+  RockSmash.cpp
+  Scene.cpp
+  sceneManager.cpp
+  Scope.cpp
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\scope.cpp(9): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  ShadowClaw.cpp
+  SheerCold.cpp
+  Skill.cpp
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\skill.cpp(31): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  skillDex.cpp
+  SkillMenu.cpp
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\skillmenu.cpp(118): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\skillmenu.cpp(144): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\skillmenu.cpp(145): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\skillmenu.cpp(161): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  SleepPowder.cpp
+  Solrock.cpp
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\solrock.cpp(60): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\solrock.cpp(61): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\solrock.cpp(62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\solrock.cpp(63): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  soundManager.cpp
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\soundmanager.cpp(142): warning C4101: 'isPlay' :참조되지 않은 지역 변수입니다.
+  Squirtle.cpp
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\squirtle.cpp(60): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\squirtle.cpp(61): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\squirtle.cpp(62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\squirtle.cpp(63): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  StatusMenu.cpp
+  streamManager.cpp
+  StunSpore.cpp
+  Team.cpp
+  ThrowItem.cpp
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\throwitem.cpp(9): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\throwitem.cpp(133): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\throwitem.cpp(132): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\throwitem.cpp(149): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  ThunderFang.cpp
+  tileManager.cpp
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\tilemanager.cpp(264): warning C4244: '=': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\tilemanager.cpp(265): warning C4244: '=': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\tilemanager.cpp(266): warning C4244: '=': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\tilemanager.cpp(267): warning C4244: '=': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\tilemanager.cpp(333): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\tilemanager.cpp(358): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\tilemanager.cpp(866): error C2664: 'HANDLE CreateFileW(LPCWSTR,DWORD,DWORD,LPSECURITY_ATTRIBUTES,DWORD,DWORD,HANDLE)': 인수 1을(를) 'const char *'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+  c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\tilemanager.cpp(867): note: 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\tilemanager.cpp(1086): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\tilemanager.cpp(1108): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\tilemanager.cpp(1494): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  컴파일하고 있습니다...
+  timeManager.cpp
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\timemanager.cpp(75): error C2664: 'int wsprintfW(LPWSTR,LPCWSTR,...)': 인수 1을(를) 'char [256]'에서 'LPWSTR'(으)로 변환할 수 없습니다.
+  c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\timemanager.cpp(75): note: 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\timemanager.cpp(76): error C2664: 'BOOL TextOutW(HDC,int,int,LPCWSTR,int)': 인수 4을(를) 'char [256]'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+  c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\timemanager.cpp(76): note: 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+  timer.cpp
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\timer.cpp(71): error C2664: 'int wsprintfW(LPWSTR,LPCWSTR,...)': 인수 1을(를) 'char *'에서 'LPWSTR'(으)로 변환할 수 없습니다.
+  c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\timer.cpp(71): note: 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+  TitleMenuU.cpp
+  TitleMenuD.cpp
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\titlemenud.cpp(73): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\titlemenud.cpp(95): error C2664: 'DWORD GetCurrentDirectoryW(DWORD,LPWSTR)': 인수 2을(를) 'char [256]'에서 'LPWSTR'(으)로 변환할 수 없습니다.
+  c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\titlemenud.cpp(95): note: 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\titlemenud.cpp(102): error C2664: 'DWORD GetFileAttributesW(LPCWSTR)': 인수 1을(를) 'char [256]'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+  c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\titlemenud.cpp(102): note: 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\titlemenud.cpp(108): error C2664: 'DWORD GetFileAttributesW(LPCWSTR)': 인수 1을(를) 'char [256]'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+  c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\titlemenud.cpp(108): note: 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+  titleScene.cpp
+  TMachine.cpp
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\tmachine.cpp(12): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  TriAttack.cpp
+  turnManager.cpp
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\turnmanager.cpp(155): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\turnmanager.cpp(168): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\turnmanager.cpp(170): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\turnmanager.cpp(171): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\turnmanager.cpp(178): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\turnmanager.cpp(179): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\turnmanager.cpp(180): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\turnmanager.cpp(182): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\turnmanager.cpp(183): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\turnmanager.cpp(184): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\turnmanager.cpp(185): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\turnmanager.cpp(186): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\turnmanager.cpp(187): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\turnmanager.cpp(214): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\turnmanager.cpp(224): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\turnmanager.cpp(233): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\turnmanager.cpp(234): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  txtData.cpp
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\txtdata.cpp(235): error C2664: 'HANDLE CreateFileW(LPCWSTR,DWORD,DWORD,LPSECURITY_ATTRIBUTES,DWORD,DWORD,HANDLE)': 인수 1을(를) 'const char *'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+  c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\txtdata.cpp(236): note: 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\txtdata.cpp(250): error C2664: 'HANDLE CreateFileW(LPCWSTR,DWORD,DWORD,LPSECURITY_ATTRIBUTES,DWORD,DWORD,HANDLE)': 인수 1을(를) 'const char *'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+  c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\txtdata.cpp(251): note: 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\txtdata.cpp(294): error C2664: 'HANDLE CreateFileW(LPCWSTR,DWORD,DWORD,LPSECURITY_ATTRIBUTES,DWORD,DWORD,HANDLE)': 인수 1을(를) 'const char *'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+  c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\txtdata.cpp(295): note: 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\txtdata.cpp(302): warning C4244: '인수': '__int64'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\txtdata.cpp(326): warning C4244: '인수': '__int64'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  uiManager.cpp
+  Umbreon.cpp
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\umbreon.cpp(60): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\umbreon.cpp(61): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\umbreon.cpp(62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\umbreon.cpp(63): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\umbreon.cpp(66): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+  UpMenu.cpp
+  User.cpp
+  utils.cpp
+  Vaporeon.cpp
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\vaporeon.cpp(60): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\vaporeon.cpp(61): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\vaporeon.cpp(62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\vaporeon.cpp(63): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\vaporeon.cpp(66): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+  Venusaur.cpp
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\venusaur.cpp(60): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\venusaur.cpp(61): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\venusaur.cpp(62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\venusaur.cpp(63): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  video.cpp
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\video.cpp(34): error C2664: 'HWND MCIWndCreateW(HWND,HINSTANCE,DWORD,LPCWSTR)': 인수 4을(를) 'const char *'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+  c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\video.cpp(36): note: 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\video.cpp(58): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\video.cpp(92): error C2664: 'HWND MCIWndCreateW(HWND,HINSTANCE,DWORD,LPCWSTR)': 인수 4을(를) 'const char *'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+  c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\video.cpp(94): note: 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+  VineWhip.cpp
+  WakeUpSlap.cpp
+  Wartortle.cpp
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\wartortle.cpp(59): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\wartortle.cpp(60): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\wartortle.cpp(61): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\wartortle.cpp(62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  컴파일하고 있습니다...
+  Waterfall.cpp
+  WingAttack.cpp
+  winMain.cpp
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\winmain.cpp(97): warning C4244: 'return': 'WPARAM'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Zubat.cpp
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\zubat.cpp(60): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\zubat.cpp(61): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\zubat.cpp(62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\zubat.cpp(63): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.

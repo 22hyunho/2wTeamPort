@@ -1,0 +1,509 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <VCProjectVersion>15.0</VCProjectVersion>
+    <ProjectGuid>{5FF87F12-A659-4CCA-BB35-A5853F8FDDA9}</ProjectGuid>
+    <Keyword>Win32Proj</Keyword>
+    <RootNamespace>windowAPI</RootNamespace>
+    <WindowsTargetPlatformVersion>10.0.17763.0</WindowsTargetPlatformVersion>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v142</PlatformToolset>
+    <CharacterSet>NotSet</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v142</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v141</PlatformToolset>
+    <CharacterSet>NotSet</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v142</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="Shared">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LinkIncremental>true</LinkIncremental>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <LinkIncremental>true</LinkIncremental>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <LinkIncremental>false</LinkIncremental>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <LinkIncremental>false</LinkIncremental>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_WINDOWS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <ClCompile>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>_DEBUG;_WINDOWS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>WIN32;NDEBUG;_WINDOWS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ClCompile>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>NDEBUG;_WINDOWS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClInclude Include="Atile.h" />
+    <ClInclude Include="battleManager.h" />
+    <ClInclude Include="Bind.h" />
+    <ClInclude Include="BlackMenu.h" />
+    <ClInclude Include="Blastoise.h" />
+    <ClInclude Include="bossMapScene.h" />
+    <ClInclude Include="Bulbasaur.h" />
+    <ClInclude Include="cameraManager.h" />
+    <ClInclude Include="Celebi.h" />
+    <ClInclude Include="Charizard.h" />
+    <ClInclude Include="Charmander.h" />
+    <ClInclude Include="Charmeleon.h" />
+    <ClInclude Include="collisionManager.h" />
+    <ClInclude Include="Crobat.h" />
+    <ClInclude Include="CrossChop.h" />
+    <ClInclude Include="Darkrai.h" />
+    <ClInclude Include="DefaultAttack.h" />
+    <ClInclude Include="dialogManager.h" />
+    <ClInclude Include="Diglett.h" />
+    <ClInclude Include="dImage.h" />
+    <ClInclude Include="DownMenu.h" />
+    <ClInclude Include="DracoMeteor.h" />
+    <ClInclude Include="Dragonair.h" />
+    <ClInclude Include="Dragonite.h" />
+    <ClInclude Include="Dratini.h" />
+    <ClInclude Include="dtdManager.h" />
+    <ClInclude Include="Dugtrio.h" />
+    <ClInclude Include="dungeonScene.h" />
+    <ClInclude Include="dungeonSelectScene.h" />
+    <ClInclude Include="DynamicPunch.h" />
+    <ClInclude Include="Eevee.h" />
+    <ClInclude Include="Effect.h" />
+    <ClInclude Include="EffectManager.h" />
+    <ClInclude Include="EF_Bind.h" />
+    <ClInclude Include="EF_CrossChop.h" />
+    <ClInclude Include="EF_Default.h" />
+    <ClInclude Include="EF_DracoMeteor.h" />
+    <ClInclude Include="EF_DynamicPunch.h" />
+    <ClInclude Include="EF_FeintAttack.h" />
+    <ClInclude Include="EF_FireBlast.h" />
+    <ClInclude Include="EF_FireFang.h" />
+    <ClInclude Include="EF_Gust.h" />
+    <ClInclude Include="EF_IceFang.h" />
+    <ClInclude Include="EF_LeafBlade.h" />
+    <ClInclude Include="EF_Lightning.h" />
+    <ClInclude Include="EF_MetalClaw.h" />
+    <ClInclude Include="EF_PoisonPowder.h" />
+    <ClInclude Include="EF_Pound.h" />
+    <ClInclude Include="EF_RockSlide.h" />
+    <ClInclude Include="EF_RockSmash.h" />
+    <ClInclude Include="EF_ShadowClaw.h" />
+    <ClInclude Include="EF_SheerCold.h" />
+    <ClInclude Include="EF_SleepPowder.h" />
+    <ClInclude Include="EF_StunSpore.h" />
+    <ClInclude Include="EF_ThunderFang.h" />
+    <ClInclude Include="EF_TriAttack.h" />
+    <ClInclude Include="EF_VineWhip.h" />
+    <ClInclude Include="EF_WakeUpSlap.h" />
+    <ClInclude Include="EF_Waterfall.h" />
+    <ClInclude Include="EF_WingAttack.h" />
+    <ClInclude Include="Enemy.h" />
+    <ClInclude Include="Espeon.h" />
+    <ClInclude Include="FeintAttack.h" />
+    <ClInclude Include="FireBlast.h" />
+    <ClInclude Include="Apple.h" />
+    <ClInclude Include="FireFang.h" />
+    <ClInclude Include="Flareon.h" />
+    <ClInclude Include="GarbageTM.h" />
+    <ClInclude Include="Giratina.h" />
+    <ClInclude Include="Glass.h" />
+    <ClInclude Include="Golbat.h" />
+    <ClInclude Include="Gummy.h" />
+    <ClInclude Include="Gust.h" />
+    <ClInclude Include="Hariyama.h" />
+    <ClInclude Include="IceFang.h" />
+    <ClInclude Include="image.h" />
+    <ClInclude Include="imageManager.h" />
+    <ClInclude Include="InvenMenu.h" />
+    <ClInclude Include="InventoryManager.h" />
+    <ClInclude Include="Item.h" />
+    <ClInclude Include="ItemManager.h" />
+    <ClInclude Include="Ivysaur.h" />
+    <ClInclude Include="Jolteon.h" />
+    <ClInclude Include="keyManager.h" />
+    <ClInclude Include="KeyMenu.h" />
+    <ClInclude Include="KeyNDirect.h" />
+    <ClInclude Include="Lapras.h" />
+    <ClInclude Include="LeafBlade.h" />
+    <ClInclude Include="Lightning.h" />
+    <ClInclude Include="loadingScene.h" />
+    <ClInclude Include="LogMenu.h" />
+    <ClInclude Include="Lunatone.h" />
+    <ClInclude Include="macroFunc.h" />
+    <ClInclude Include="gameNode.h" />
+    <ClInclude Include="MainMenu.h" />
+    <ClInclude Include="mainScene.h" />
+    <ClInclude Include="Makuhita.h" />
+    <ClInclude Include="maptool.h" />
+    <ClInclude Include="mapToolScene.h" />
+    <ClInclude Include="Mawile.h" />
+    <ClInclude Include="MenuHeader.h" />
+    <ClInclude Include="MetalClaw.h" />
+    <ClInclude Include="PathFinder.h" />
+    <ClInclude Include="Pattern.h" />
+    <ClInclude Include="PatternOnAttack.h" />
+    <ClInclude Include="PatternPathFinder.h" />
+    <ClInclude Include="Pichu.h" />
+    <ClInclude Include="Pikachu.h" />
+    <ClInclude Include="Player.h" />
+    <ClInclude Include="playGround.h" />
+    <ClInclude Include="PoisonPowder.h" />
+    <ClInclude Include="pokeDex.h" />
+    <ClInclude Include="Pokemon.h" />
+    <ClInclude Include="PokemonHeader.h" />
+    <ClInclude Include="PokemonType.h" />
+    <ClInclude Include="Pound.h" />
+    <ClInclude Include="printManager.h" />
+    <ClInclude Include="Raichu.h" />
+    <ClInclude Include="randomFunction.h" />
+    <ClInclude Include="Regice.h" />
+    <ClInclude Include="Regirock.h" />
+    <ClInclude Include="Registeel.h" />
+    <ClInclude Include="Resource.h" />
+    <ClInclude Include="ResultMenu.h" />
+    <ClInclude Include="resultScene.h" />
+    <ClInclude Include="Ribbon.h" />
+    <ClInclude Include="RockSlide.h" />
+    <ClInclude Include="RockSmash.h" />
+    <ClInclude Include="Scene.h" />
+    <ClInclude Include="SceneHeader.h" />
+    <ClInclude Include="sceneManager.h" />
+    <ClInclude Include="Scope.h" />
+    <ClInclude Include="ShadowClaw.h" />
+    <ClInclude Include="SheerCold.h" />
+    <ClInclude Include="singletonBase.h" />
+    <ClInclude Include="Skill.h" />
+    <ClInclude Include="skillDex.h" />
+    <ClInclude Include="SkillHeader.h" />
+    <ClInclude Include="SkillMenu.h" />
+    <ClInclude Include="SleepPowder.h" />
+    <ClInclude Include="Solrock.h" />
+    <ClInclude Include="soundManager.h" />
+    <ClInclude Include="Squirtle.h" />
+    <ClInclude Include="StatusMenu.h" />
+    <ClInclude Include="stdafx.h" />
+    <ClInclude Include="streamManager.h" />
+    <ClInclude Include="StunSpore.h" />
+    <ClInclude Include="targetver.h" />
+    <ClInclude Include="Team.h" />
+    <ClInclude Include="ThrowItem.h" />
+    <ClInclude Include="ThunderFang.h" />
+    <ClInclude Include="tileInfo.h" />
+    <ClInclude Include="tileManager.h" />
+    <ClInclude Include="timeManager.h" />
+    <ClInclude Include="timer.h" />
+    <ClInclude Include="TitleMenuU.h" />
+    <ClInclude Include="TitleMenuD.h" />
+    <ClInclude Include="titleScene.h" />
+    <ClInclude Include="TMachine.h" />
+    <ClInclude Include="TriAttack.h" />
+    <ClInclude Include="turnManager.h" />
+    <ClInclude Include="txtData.h" />
+    <ClInclude Include="uiManager.h" />
+    <ClInclude Include="Umbreon.h" />
+    <ClInclude Include="UpMenu.h" />
+    <ClInclude Include="User.h" />
+    <ClInclude Include="utils.h" />
+    <ClInclude Include="Vaporeon.h" />
+    <ClInclude Include="Venusaur.h" />
+    <ClInclude Include="video.h" />
+    <ClInclude Include="VineWhip.h" />
+    <ClInclude Include="WakeUpSlap.h" />
+    <ClInclude Include="Wartortle.h" />
+    <ClInclude Include="Waterfall.h" />
+    <ClInclude Include="WingAttack.h" />
+    <ClInclude Include="Zubat.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Atile.cpp" />
+    <ClCompile Include="battleManager.cpp" />
+    <ClCompile Include="Bind.cpp" />
+    <ClCompile Include="BlackMenu.cpp" />
+    <ClCompile Include="Blastoise.cpp" />
+    <ClCompile Include="bossMapScene.cpp" />
+    <ClCompile Include="Bulbasaur.cpp" />
+    <ClCompile Include="cameraManager.cpp" />
+    <ClCompile Include="Celebi.cpp" />
+    <ClCompile Include="Charizard.cpp" />
+    <ClCompile Include="Charmander.cpp" />
+    <ClCompile Include="Charmeleon.cpp" />
+    <ClCompile Include="collisionManager.cpp" />
+    <ClCompile Include="Crobat.cpp" />
+    <ClCompile Include="CrossChop.cpp" />
+    <ClCompile Include="Darkrai.cpp" />
+    <ClCompile Include="DefaultAttack.cpp" />
+    <ClCompile Include="dialogManager.cpp" />
+    <ClCompile Include="Diglett.cpp" />
+    <ClCompile Include="dImage.cpp" />
+    <ClCompile Include="DownMenu.cpp" />
+    <ClCompile Include="DracoMeteor.cpp" />
+    <ClCompile Include="Dragonair.cpp" />
+    <ClCompile Include="Dragonite.cpp" />
+    <ClCompile Include="Dratini.cpp" />
+    <ClCompile Include="dtdManager.cpp" />
+    <ClCompile Include="Dugtrio.cpp" />
+    <ClCompile Include="dungeonScene.cpp" />
+    <ClCompile Include="dungeonSelectScene.cpp" />
+    <ClCompile Include="DynamicPunch.cpp" />
+    <ClCompile Include="Eevee.cpp" />
+    <ClCompile Include="Effect.cpp" />
+    <ClCompile Include="EffectManager.cpp" />
+    <ClCompile Include="EF_Bind.cpp" />
+    <ClCompile Include="EF_CrossChop.cpp" />
+    <ClCompile Include="EF_Default.cpp" />
+    <ClCompile Include="EF_DracoMeteor.cpp" />
+    <ClCompile Include="EF_DynamicPunch.cpp" />
+    <ClCompile Include="EF_FeintAttack.cpp" />
+    <ClCompile Include="EF_FireBlast.cpp" />
+    <ClCompile Include="EF_FireFang.cpp" />
+    <ClCompile Include="EF_Gust.cpp" />
+    <ClCompile Include="EF_IceFang.cpp" />
+    <ClCompile Include="EF_LeafBlade.cpp" />
+    <ClCompile Include="EF_Lightning.cpp" />
+    <ClCompile Include="EF_MetalClaw.cpp" />
+    <ClCompile Include="EF_PoisonPowder.cpp" />
+    <ClCompile Include="EF_Pound.cpp" />
+    <ClCompile Include="EF_RockSlide.cpp" />
+    <ClCompile Include="EF_RockSmash.cpp" />
+    <ClCompile Include="EF_ShadowClaw.cpp" />
+    <ClCompile Include="EF_SheerCold.cpp" />
+    <ClCompile Include="EF_SleepPowder.cpp" />
+    <ClCompile Include="EF_StunSpore.cpp" />
+    <ClCompile Include="EF_ThunderFang.cpp" />
+    <ClCompile Include="EF_TriAttack.cpp" />
+    <ClCompile Include="EF_VineWhip.cpp" />
+    <ClCompile Include="EF_WakeUpSlap.cpp" />
+    <ClCompile Include="EF_Waterfall.cpp" />
+    <ClCompile Include="EF_WingAttack.cpp" />
+    <ClCompile Include="Enemy.cpp" />
+    <ClCompile Include="Espeon.cpp" />
+    <ClCompile Include="FeintAttack.cpp" />
+    <ClCompile Include="FireBlast.cpp" />
+    <ClCompile Include="Apple.cpp" />
+    <ClCompile Include="FireFang.cpp" />
+    <ClCompile Include="Flareon.cpp" />
+    <ClCompile Include="gameNode.cpp" />
+    <ClCompile Include="GarbageTM.cpp" />
+    <ClCompile Include="Giratina.cpp" />
+    <ClCompile Include="Glass.cpp" />
+    <ClCompile Include="Golbat.cpp" />
+    <ClCompile Include="Gummy.cpp" />
+    <ClCompile Include="Gust.cpp" />
+    <ClCompile Include="Hariyama.cpp" />
+    <ClCompile Include="IceFang.cpp" />
+    <ClCompile Include="image.cpp" />
+    <ClCompile Include="imageManager.cpp" />
+    <ClCompile Include="InvenMenu.cpp" />
+    <ClCompile Include="InventoryManager.cpp" />
+    <ClCompile Include="Item.cpp" />
+    <ClCompile Include="ItemManager.cpp" />
+    <ClCompile Include="Ivysaur.cpp" />
+    <ClCompile Include="Jolteon.cpp" />
+    <ClCompile Include="keyManager.cpp" />
+    <ClCompile Include="KeyMenu.cpp" />
+    <ClCompile Include="Lapras.cpp" />
+    <ClCompile Include="LeafBlade.cpp" />
+    <ClCompile Include="Lightning.cpp" />
+    <ClCompile Include="loadingScene.cpp" />
+    <ClCompile Include="LogMenu.cpp" />
+    <ClCompile Include="Lunatone.cpp" />
+    <ClCompile Include="MainMenu.cpp" />
+    <ClCompile Include="mainScene.cpp" />
+    <ClCompile Include="Makuhita.cpp" />
+    <ClCompile Include="maptool.cpp" />
+    <ClCompile Include="mapToolScene.cpp" />
+    <ClCompile Include="Mawile.cpp" />
+    <ClCompile Include="MetalClaw.cpp" />
+    <ClCompile Include="PathFinder.cpp" />
+    <ClCompile Include="Pattern.cpp" />
+    <ClCompile Include="PatternOnAttack.cpp" />
+    <ClCompile Include="PatternPathFinder.cpp" />
+    <ClCompile Include="Pichu.cpp" />
+    <ClCompile Include="Pikachu.cpp" />
+    <ClCompile Include="Player.cpp" />
+    <ClCompile Include="playGround.cpp" />
+    <ClCompile Include="PoisonPowder.cpp" />
+    <ClCompile Include="pokeDex.cpp" />
+    <ClCompile Include="Pokemon.cpp" />
+    <ClCompile Include="Pound.cpp" />
+    <ClCompile Include="printManager.cpp" />
+    <ClCompile Include="Raichu.cpp" />
+    <ClCompile Include="Regice.cpp" />
+    <ClCompile Include="Regirock.cpp" />
+    <ClCompile Include="Registeel.cpp" />
+    <ClCompile Include="ResultMenu.cpp" />
+    <ClCompile Include="resultScene.cpp" />
+    <ClCompile Include="Ribbon.cpp" />
+    <ClCompile Include="RockSlide.cpp" />
+    <ClCompile Include="RockSmash.cpp" />
+    <ClCompile Include="Scene.cpp" />
+    <ClCompile Include="sceneManager.cpp" />
+    <ClCompile Include="Scope.cpp" />
+    <ClCompile Include="ShadowClaw.cpp" />
+    <ClCompile Include="SheerCold.cpp" />
+    <ClCompile Include="Skill.cpp" />
+    <ClCompile Include="skillDex.cpp" />
+    <ClCompile Include="SkillMenu.cpp" />
+    <ClCompile Include="SleepPowder.cpp" />
+    <ClCompile Include="Solrock.cpp" />
+    <ClCompile Include="soundManager.cpp" />
+    <ClCompile Include="Squirtle.cpp" />
+    <ClCompile Include="StatusMenu.cpp" />
+    <ClCompile Include="stdafx.cpp">
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Create</PrecompiledHeader>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Create</PrecompiledHeader>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Create</PrecompiledHeader>
+    </ClCompile>
+    <ClCompile Include="streamManager.cpp" />
+    <ClCompile Include="StunSpore.cpp" />
+    <ClCompile Include="Team.cpp" />
+    <ClCompile Include="ThrowItem.cpp" />
+    <ClCompile Include="ThunderFang.cpp" />
+    <ClCompile Include="tileManager.cpp" />
+    <ClCompile Include="timeManager.cpp" />
+    <ClCompile Include="timer.cpp" />
+    <ClCompile Include="TitleMenuU.cpp" />
+    <ClCompile Include="TitleMenuD.cpp" />
+    <ClCompile Include="titleScene.cpp" />
+    <ClCompile Include="TMachine.cpp" />
+    <ClCompile Include="TriAttack.cpp" />
+    <ClCompile Include="turnManager.cpp" />
+    <ClCompile Include="txtData.cpp" />
+    <ClCompile Include="uiManager.cpp" />
+    <ClCompile Include="Umbreon.cpp" />
+    <ClCompile Include="UpMenu.cpp" />
+    <ClCompile Include="User.cpp" />
+    <ClCompile Include="utils.cpp" />
+    <ClCompile Include="Vaporeon.cpp" />
+    <ClCompile Include="Venusaur.cpp" />
+    <ClCompile Include="video.cpp" />
+    <ClCompile Include="VineWhip.cpp" />
+    <ClCompile Include="WakeUpSlap.cpp" />
+    <ClCompile Include="Wartortle.cpp" />
+    <ClCompile Include="Waterfall.cpp" />
+    <ClCompile Include="WingAttack.cpp" />
+    <ClCompile Include="winMain.cpp" />
+    <ClCompile Include="Zubat.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="windowAPI.rc" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="small.ico" />
+    <Image Include="windowAPI.ico" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

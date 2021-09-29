@@ -1,0 +1,8 @@
+﻿  dialogManager.cpp
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\dialogmanager.cpp(60): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\dialogmanager.cpp(61): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\dialogmanager.cpp(84): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\dialogmanager.cpp(85): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\dialogmanager.cpp(90): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\pokemon_dungeon\pokemon_mystery_dungeon\dialogmanager.cpp(91): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  windowAPI.vcxproj -> C:\Users\eldorado\Source\Repos\JinKyong\Pokemon_Dungeon\Pokemon_Mystery_Dungeon\x64\Debug\windowAPI.exe
